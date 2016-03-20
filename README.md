@@ -1,2 +1,3 @@
 # hello-world
 Julia's first git stuff
+Figuring out how to use GitHub....
